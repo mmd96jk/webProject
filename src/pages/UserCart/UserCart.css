@@ -1,0 +1,4 @@
+.ProductWapper {
+    display: flex;
+    justify-content: space-evenly;
+}

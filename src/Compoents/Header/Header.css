@@ -1,0 +1,28 @@
+.headerTitleWapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 30vh;
+}
+.headerTitle {
+    font-size: 2.5rem;
+}
+.headerBtn button{
+    background-color: #004225;
+    padding: 0.8rem 1.9rem;
+    border: none;
+    color: #fff;
+    border-radius: 0.5rem;
+    font-size: 1.4rem;
+    font-family: IRANSans;
+}
+.categoryBoxWapper {
+    display: flex;
+    justify-content: center;
+    gap: 0.6rem;
+    width: 100%;
+}
+.iconBox {
+    font-size: 4rem;
+}

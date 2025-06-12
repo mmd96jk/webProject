@@ -1,0 +1,7 @@
+.featuredProducts {
+    margin-top: 0.8rem;
+}
+.ProductWapper {
+    display: flex;
+    flex-wrap: wrap;
+}

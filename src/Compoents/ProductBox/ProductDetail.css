@@ -1,0 +1,26 @@
+.productDetali {
+    border: 1px solidrgb(136, 136, 136);
+    border-radius: 0.6rem;
+    box-shadow: 0.5rem 0.5rem 0.8rem #333;
+    margin-top: 0.9rem !important;
+    padding: 0.6rem;
+}
+.productDetailImg {
+    width: 30%;
+    height: auto;
+}
+.productDetailImg img {
+    width: 100%;
+}
+.productDetailPrice {
+    margin-bottom: 0.5rem;
+}
+.productDetailBtn button {
+    width: 100%;
+    padding: 0.5rem 0.8rem;
+    text-align: center;
+    margin: auto 0;
+    background-color: var(--green);
+    border-radius: 0.6rem;
+    color: white;
+}

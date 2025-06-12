@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "fullName": "mamad",
+      "username": "__mmd_96",
+      "email": "test@gmail.com",
+      "password": "12345678",
+      "phone": "09026058969"
+    },
+    {
+      "id": "1",
+      "fullName": "علی رضا سلطانی",
+      "username": "alirez",
+      "email": "alireza@gmail.com",
+      "password": "reza2001",
+      "phone": "09342315678"
+    },
+    {
+      "id": "2",
+      "fullName": ";lklkj;lkj",
+      "username": "jlkjjklj",
+      "email": "jsdlkfj@jkldsfjsd.com",
+      "password": "3241235",
+      "phone": "9809809789"
+    },
+    {
+      "id": "3",
+      "fullName": "kjklajfl;kfj",
+      "username": "jlkjdlskf",
+      "email": "dflkjd@gmail.com",
+      "password": "vjlkjd",
+      "phone": "jlkj;lkj"
+    }
+  ],
+  "carts": [
+    {
+      "id": 2,
+      "img": [
+        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+      ],
+      "title": "Eyeshadow Palette with Mirror",
+      "desc": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "img": [
+        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+      ],
+      "title": "Eyeshadow Palette with Mirror",
+      "desc": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "price": 19.99
+    },
+    {
+      "id": 9,
+      "img": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
+      ],
+      "title": "Dolce Shine Eau de",
+      "desc": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "price": 69.99
+    },
+    {
+      "id": 3,
+      "img": [
+        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+      ],
+      "title": "Powder Canister",
+      "desc": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "price": 14.99
+    },
+    {
+      "id": 79,
+      "img": [
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/3.webp"
+      ],
+      "title": "Asus Zenbook Pro Dual Screen Laptop",
+      "desc": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+      "price": 1799.99
+    }
+  ]
+}

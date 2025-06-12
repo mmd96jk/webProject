@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.3rem 1rem;
+}
+.navbarTitle {
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+}
+.iconStyle {
+    color: var(--green);
+    font-size: 1.5rem;
+    margin: 0 0.4rem;
+}
+.navbarList {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 100%;
+}
+.userInfosNavbar {
+    display: flex;
+    align-items: center;
+
+}
