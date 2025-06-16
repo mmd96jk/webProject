@@ -2,3 +2,30 @@
     display: flex;
     justify-content: space-evenly;
 }
+.userCartPrice {
+    display: flex;
+    justify-content: center;
+}
+.userCartTable {
+    margin-top: 1.6rem !important;
+    width: 50% !important;
+}
+td, th {
+    padding: 1rem 1.2rem;
+    border: 1px solid #ccc !important;
+    text-align: center !important;
+}
+.userCartTotalPrice {
+    text-align: center;
+    margin-top: 0.7rem
+}
+.userCartBtn button{
+    width: 100%;
+    padding: 0.5rem 0.8rem;
+    text-align: center;
+    margin: auto 0;
+    background-color: var(--green);
+    border-radius: 0.6rem;
+    color: white;
+    margin-top: 0.5rem;
+}

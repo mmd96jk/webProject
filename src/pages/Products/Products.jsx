@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import { Container, Row } from 'react-bootstrap'
-import Footer from '../../Compoents/Footer/Footer'
-import Navbar from '../../Compoents/Navbar/Navbar'
 import Productbox from '../../Compoents/ProductBox/ProductBox'
 import './Products.css'
 
@@ -20,8 +18,6 @@ export default function Products() {
   return (
     <>
       <Container>
-        <Navbar />
-
         <Row className='ProductWapper'>
           {
             products.map(product => (
@@ -30,7 +26,6 @@ export default function Products() {
           }
         </Row>
       </Container>
-      <Footer />
     </>
   )
 }

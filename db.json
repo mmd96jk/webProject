@@ -35,53 +35,27 @@
   ],
   "carts": [
     {
-      "id": 2,
+      "id": 78,
       "img": [
-        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/3.webp"
       ],
-      "title": "Eyeshadow Palette with Mirror",
-      "desc": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-      "price": 19.99
+      "title": "Apple MacBook Pro 14 Inch Space Grey",
+      "desc": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+      "price": 1999.99
     },
     {
-      "id": 2,
+      "id": 84,
       "img": [
-        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/4.webp"
       ],
-      "title": "Eyeshadow Palette with Mirror",
-      "desc": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-      "price": 19.99
-    },
-    {
-      "id": 9,
-      "img": [
-        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
-        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
-        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
-      ],
-      "title": "Dolce Shine Eau de",
-      "desc": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
-      "price": 69.99
-    },
-    {
-      "id": 3,
-      "img": [
-        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
-      ],
-      "title": "Powder Canister",
-      "desc": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
-      "price": 14.99
-    },
-    {
-      "id": 79,
-      "img": [
-        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
-        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/2.webp",
-        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/3.webp"
-      ],
-      "title": "Asus Zenbook Pro Dual Screen Laptop",
-      "desc": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
-      "price": 1799.99
+      "title": "Gigabyte Aorus Men Tshirt",
+      "desc": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+      "price": 24.99
     }
   ]
 }

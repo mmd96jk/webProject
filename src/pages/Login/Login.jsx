@@ -1,6 +1,4 @@
 import React, { useState  , useContext, useEffect} from 'react'
-import Navbar from '../../Compoents/Navbar/Navbar'
-import Footer from '../../Compoents/Footer/Footer'
 import swal from 'sweetalert'
 import { Link , useNavigate } from 'react-router-dom'
 import MainContext from '../../context/MainContext'
@@ -46,7 +44,6 @@ export default function Login() {
 
   return (
     <>
-      <Navbar />
       <div className="min-h-screen flex items-center justify-center bg-gray-100 px-4">
         <form
           onSubmit={handleSubmit}
@@ -84,7 +81,6 @@ export default function Login() {
           </p>
         </form>
       </div>
-      <Footer />
     </>
   )
 }

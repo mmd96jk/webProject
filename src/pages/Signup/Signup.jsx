@@ -1,6 +1,4 @@
 import React, { useEffect, useState, useContext } from 'react'
-import Navbar from '../../Compoents/Navbar/Navbar'
-import Footer from '../../Compoents/Footer/Footer'
 import { Link , useNavigate } from 'react-router-dom'
 import swal from 'sweetalert'
 import MainContext from '../../context/MainContext'
@@ -72,7 +70,6 @@ export default function Signup() {
 
     return (
         <>
-            <Navbar />
             <div className="min-h-screen flex items-center justify-center bg-gray-100 px-4">
                 <form
                     onSubmit={registerUser}
@@ -134,7 +131,6 @@ export default function Signup() {
                     </p>
                 </form>
             </div>
-            <Footer />
         </>
     )
 }

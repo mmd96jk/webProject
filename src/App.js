@@ -3,7 +3,8 @@ import { useEffect, useState } from 'react';
 import MianContext from './context/MainContext'
 import routes from './routes'
 import { useRoutes } from 'react-router-dom'
-import AnimatedBackground from './Compoents/AnimatedBackground/AnimatedBackground';
+import Navbar from './Compoents/Navbar/Navbar'
+import Footer from './Compoents/Footer/Footer';
 
 function App() {
   const [userInfos, setUserInfos] = useState({})
@@ -44,9 +45,13 @@ function App() {
 
 
   return (
-    <MianContext.Provider value={{ userInfos, login, isLoggedIn , logout}}>
+    <MianContext.Provider value={{ userInfos, login, isLoggedIn, logout }}>
       {/* <AnimatedBackground /> */}
-      {router}
+      <Navbar />
+      <main>
+        {router}
+      </main>
+      <Footer />
       {/* <AnimatedBackground /> */}
     </MianContext.Provider>
 

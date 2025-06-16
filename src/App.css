@@ -59,3 +59,7 @@ a {
   text-decoration: none !important;
   color: #282c34 !important;
 }
+
+main {
+  min-height: 100vh;
+}

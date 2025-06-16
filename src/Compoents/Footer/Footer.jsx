@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Footer() {
     return (
@@ -16,10 +17,10 @@ export default function Footer() {
                 <div>
                     <h2 className="text-xl font-bold mb-4">لینک‌های مفید</h2>
                     <ul className="space-y-2 text-sm text-gray-800">
-                        <li><a href="/" className="hover:text-white">صفحه اصلی</a></li>
-                        <li><a href="/about" className="hover:text-white">درباره ما</a></li>
-                        <li><a href="/contact" className="hover:text-white">تماس با ما</a></li>
-                        <li><a href="/faq" className="hover:text-white">سوالات متداول</a></li>
+                        <li><Link to="/">صفحه اصلی</Link></li>
+                        <li><Link to="/products">محصولات</Link></li>
+                        <li><Link to="/categories">دسته بندی ها</Link></li>
+                        <li><Link to='/about'>درباره ما</Link></li>
                     </ul>
                 </div>
 

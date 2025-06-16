@@ -4,7 +4,7 @@
     align-items: center;
     padding: 0.3rem 1rem;
 }
-.navbarTitle {
+.navbarBrand {
     font-weight: 900;
     display: flex;
     align-items: center;
@@ -14,14 +14,18 @@
     font-size: 1.5rem;
     margin: 0 0.4rem;
 }
-.navbarList {
+.navbarInfoWapper {
+    width: 100%;
+}
+.navbarInfo {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     list-style: none;
     width: 100%;
 }
-.userInfosNavbar {
+.navLink {
     display: flex;
-    align-items: center;
-
+    justify-content: space-between;
+    width: 90% !important;
 }

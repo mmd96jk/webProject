@@ -1,6 +1,5 @@
 import React from 'react'
 import CategoryBox from '../CategoryBox/CategoryBox'
-import Navbar from '../Navbar/Navbar'
 import './Header.css'
 import { BiSolidTShirt } from "react-icons/bi";
 import { GiConverseShoe } from "react-icons/gi";
@@ -12,7 +11,6 @@ import { Link } from 'react-router-dom'
 export default function Header() {
   return (
     <>
-      <Navbar />
       <motion.div
         initial={{ y: -50, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}

@@ -2,7 +2,6 @@ import React from 'react'
 import Header from '../../Compoents/Header/Header'
 import FeaturedProducts from '../../Compoents/FeaturedProducts/FeaturedProducts'
 import { Container } from 'react-bootstrap'
-import Footer from '../../Compoents/Footer/Footer'
 import './IndexApp.css'
 
 export default function IndexApp() {
@@ -12,7 +11,6 @@ export default function IndexApp() {
         <Header />
         <FeaturedProducts />
       </Container>
-      <Footer />
     </>
   )
 }

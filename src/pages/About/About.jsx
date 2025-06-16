@@ -8,7 +8,6 @@ export default function About() {
   return (
     <>
       <Container>
-        <Navbar />
         <div className="bg-white text-gray-800 px-6 py-16">
           <div className="max-w-5xl mx-auto">
             <h1 className="text-4xl font-bold mb-8 text-center">درباره ما</h1>
@@ -27,7 +26,6 @@ export default function About() {
           </div>
         </div>
       </Container>
-      <Footer />
     </>
   )
 }
